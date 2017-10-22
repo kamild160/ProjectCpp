@@ -20,3 +20,8 @@ Funkcjonalności:
 W przyszłości: 
  - Możliwość wyszukiwania ręcznie ofert przez pracownika; 
  - Połączenie z jakimś serwisem; 
+
+
+
+
+> Biblioteki, których planuję użyć: 
