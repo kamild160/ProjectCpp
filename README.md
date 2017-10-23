@@ -8,7 +8,7 @@ Funkcjonalności:
    * Formularz - wykształcenie 
    * Formularz - ukierunkowanie zawodowe 
    * Tworzenie opisu i CV pracownika
-   * Przydzielenie pracownika do odpowiedniej kategorii zawodowej i dodanie go do bazy danych pracowników
+   * Przydzielenie pracownika do odpowiedniej kategorii zawodowej i dodanie go do bazy danych pracowników (algorytm dobierania kategorii)
    
  - Zakładanie konta przez pracodawcę:
    * Formularz - podstawowe dane (o firmie itp)
@@ -19,7 +19,7 @@ Funkcjonalności:
 
 W przyszłości: 
  - Możliwość wyszukiwania ręcznie ofert przez pracownika; 
- - Połączenie z jakimś serwisem; 
+ - Połączenie z jakimś serwisem (typu Pracuj.pl olx.pl/praca); 
 
 
 
