@@ -30,4 +30,5 @@ W przyszłości:
 
 
 > Narzędzia, których planuję użyć:
- - Android NDK
+ - Android NDK (tworzenie aplikacji ogólnie)
+ - Xamarin (kompilowanie z C++ na inne platformy) < element na przyszłość
