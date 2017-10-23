@@ -25,7 +25,8 @@ W przyszłości:
 
 
 > Biblioteki, których planuję użyć: 
-  - SQLAPI++ 
+  - SQLAPI++ (Bazy danych - zarządzanie itp.)
+  
 
 
 > Narzędzia, których planuję użyć:
