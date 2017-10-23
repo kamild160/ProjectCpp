@@ -25,3 +25,8 @@ W przyszłości:
 
 
 > Biblioteki, których planuję użyć: 
+  - SQLAPI++ 
+
+
+> Narzędzia, których planuję użyć:
+ - Android NDK
