@@ -26,7 +26,7 @@ W przyszłości:
 
 > Biblioteki, których planuję użyć: 
   - SQLAPI++ (Bazy danych - zarządzanie itp.)
-  
+  - Wt, C++ Web Toolkit (Część wizualna aplikacji, widżety itp)
 
 
 > Narzędzia, których planuję użyć:
